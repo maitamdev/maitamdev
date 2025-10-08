@@ -1,3 +1,4 @@
+<img align="right" width="340" src="assets/dev-illustration.png" />
 <!-- Header -->
 <div align="center">
   
