@@ -1,10 +1,10 @@
 
 <!-- Header -->
 <div align="center">
-  
-# Hi there, mình là **Mai Tâm** 👋
 
-_Một **Full-stack Developer** đam mê biến ý tưởng thành sản phẩm chạy thật, tối ưu hiệu năng & trải nghiệm người dùng._
+# Hi there, I'm **Mai Tâm** 👋
+
+_A **Full-stack Developer** passionate about turning ideas into real, performant, and user-friendly products._
 
 <!-- Social / badges -->
 [![Followers](https://img.shields.io/github/followers/maitamdev?style=for-the-badge)](https://github.com/maitamdev?tab=followers)
@@ -17,15 +17,15 @@ _Một **Full-stack Developer** đam mê biến ý tưởng thành sản phẩm 
 
 ---
 
-## 🧑‍💻 Giới thiệu nhanh
-- 💼 Vai trò: **Full-stack Developer**
-- 🔭 Sở trường: Thiết kế kiến trúc FE/BE, tối ưu UX/UI, bảo trì & mở rộng hệ thống.
-- 🚀 Yêu thích mã nguồn mở, học & build mỗi ngày.
+## 🧑‍💻 About Me
+- 💼 Role: **Full-stack Developer**
+- 🔭 Strengths: System architecture (FE/BE), UX/UI optimization, and scalable maintenance.
+- 🚀 Passionate about open-source, continuous learning, and building impactful tools.
 
-<!-- Ảnh minh hoạ (tuỳ chọn): thay link ảnh nếu bạn đã upload vào /assets -->
+<!-- Optional illustration: replace link if you’ve uploaded your own -->
 <!-- <img align="right" width="340" src="https://raw.githubusercontent.com/maitamdev/maitamdev/main/assets/dev-illustration.png" /> -->
 
-## 🧰 Tech mình dùng
+## 🧰 Tech Stack
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
@@ -42,27 +42,27 @@ _Một **Full-stack Developer** đam mê biến ý tưởng thành sản phẩm 
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
 </p>
 
-## 🚀 Dự án tiêu biểu
+## 🚀 Featured Projects
 
-| Dự án | Mô tả ngắn | Công nghệ |
+| Project | Description | Technologies |
 |---|---|---|
-| [**web-dev-maitam**](https://github.com/maitamdev/web-dev-maitam) | Giao diện website “Modern Website UI/UX Courses Online”. Dự án tĩnh luyện HTML/CSS/JS. | HTML, CSS, JavaScript |
-| [**build-chatgpt-from-scratch**](https://github.com/maitamdev/build-chatgpt-from-scratch) | Chatbot tự xây với **Solara + LangChain + Ollama (LLaMA)**, UI thân thiện, dễ chạy local. | Python, Solara, LangChain, Ollama |
-| [**happy-birthday-babe**](https://github.com/maitamdev/happy-birthday-babe) | Website chúc mừng sinh nhật nhỏ xinh ❤️ (ảnh, nhạc, script). | HTML, CSS, JavaScript |
+| [**web-dev-maitam**](https://github.com/maitamdev/web-dev-maitam) | A sleek website UI for “Modern Website UI/UX Courses Online”. Built to sharpen front-end fundamentals. | HTML, CSS, JavaScript |
+| [**build-chatgpt-from-scratch**](https://github.com/maitamdev/build-chatgpt-from-scratch) | A self-built chatbot using **Solara + LangChain + Ollama (LLaMA)** with a clean, local-friendly UI. | Python, Solara, LangChain, Ollama |
+| [**happy-birthday-babe**](https://github.com/maitamdev/happy-birthday-babe) | A cute interactive birthday webpage ❤️ with animations, music, and visuals. | HTML, CSS, JavaScript |
 
-## 📊 Thống kê GitHub
+## 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=maitamdev&show_icons=true&hide=issues&theme=dark" height="160">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitamdev&layout=compact&theme=dark" height="160">
 </p>
 
-## 📫 Liên hệ
+## 📫 Contact
 - 📧 Email: **maitamit062005@gmail.com**
-- 💼 LinkedIn/Facebook: cập nhật ở trên.  
-- 💬 Hợp tác open-source? **Ping mình nhé!**
+- 💼 LinkedIn/Facebook: links above  
+- 💬 Interested in open-source collaboration? **Ping me anytime!**
 
 <div align="center">
-  
-*Thanks for visiting! ⭐ Nếu thấy hay, cho mình một “follow” nha!*
+
+*Thanks for visiting! ⭐ If you like my work, consider giving a follow!*
 
 </div>
