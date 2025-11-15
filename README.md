@@ -4,7 +4,8 @@
 
 # Hi there, I'm **Mai Tâm** 👋
 
-_A **Full-stack Developer** passionate about turning ideas into real, performant, and user-friendly products._
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=600&lines=A+Full-stack+Developer+turning+ideas+into+real+products)](https://git.io/typing-svg)
+
 
 <!-- Social / badges -->
 [![Followers](https://img.shields.io/github/followers/maitamdev?style=for-the-badge)](https://github.com/maitamdev?tab=followers)
