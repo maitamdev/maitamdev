@@ -4,7 +4,7 @@
 
 # Hi there, I'm **Mai Tâm** 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=600&lines=A+Full-stack+Developer+turning+ideas+into+real+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=600&lines=A+Full-stack+Developer+turning+ideas+into+reality.)](https://git.io/typing-svg)
 
 
 <!-- Social / badges -->
