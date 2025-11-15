@@ -1,11 +1,9 @@
-
 <!-- Header -->
 <div align="center">
 
 # Hi there, I'm **Mai Tâm** 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=600&lines=A+Full-stack+Developer+turning+ideas+into+reality.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=36BCF7&width=600&lines=A+Full-stack+Developer+turning+ideas+into+reality.;Innovation+%26+Startup+Project+Builder;Building+Impactful+Digital+Experiences)](https://git.io/typing-svg)
 
 <!-- Social / badges -->
 [![Followers](https://img.shields.io/github/followers/maitamdev?style=for-the-badge)](https://github.com/maitamdev?tab=followers)
@@ -20,11 +18,11 @@
 
 ## 🧑‍💻 About Me
 - 💼 Role: **Full-stack Developer**
-- 🔭 Strengths: System architecture (FE/BE), UX/UI optimization, and scalable maintenance.
-- 🚀 Passionate about open-source, continuous learning, and building impactful tools.
+- 🔥 Building projects with real-world impact — clean UI, stable architecture, scalable backend.
+- 🚀 Passionate about open-source, AI integration, and innovative learning platforms.
+- 🎯 Mission: Turn ideas into production-ready applications.
 
-<!-- Optional illustration: replace link if you’ve uploaded your own -->
-<!-- <img align="right" width="340" src="https://raw.githubusercontent.com/maitamdev/maitamdev/main/assets/dev-illustration.png" /> -->
+---
 
 ## 🧰 Tech Stack
 <p>
@@ -43,27 +41,34 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
 </p>
 
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Technologies |
 |---|---|---|
-| [**web-dev-maitam**](https://github.com/maitamdev/web-dev-maitam) | A sleek website UI for “Modern Website UI/UX Courses Online”. Built to sharpen front-end fundamentals. | HTML, CSS, JavaScript |
-| [**build-chatgpt-from-scratch**](https://github.com/maitamdev/build-chatgpt-from-scratch) | A self-built chatbot using **Solara + LangChain + Ollama (LLaMA)** with a clean, local-friendly UI. | Python, Solara, LangChain, Ollama |
-| [**happy-birthday-babe**](https://github.com/maitamdev/happy-birthday-babe) | A cute interactive birthday webpage ❤️ with animations, music, and visuals. | HTML, CSS, JavaScript |
+| [**DHV-GUIDING-LIGHT**](https://github.com/maitamdev/DHV-GUIDING-LIGHT) | 🚀 **Innovation & Startup Project 2025.** A mentorship platform connecting DHV students with advisors through booking, dashboards, and AI-powered guidance. | React, TypeScript, Firebase, Node.js |
+| [**web-dev-maitam**](https://github.com/maitamdev/web-dev-maitam) | A sleek UI website designed for “Modern Website UI/UX Courses Online”. | HTML, CSS, JavaScript |
+| [**build-chatgpt-from-scratch**](https://github.com/maitamdev/build-chatgpt-from-scratch) | A custom ChatGPT-like LLM app using **Solara + LangChain + Ollama (LLaMA)**. | Python, Solara, LangChain, Ollama |
+| [**happy-birthday-babe**](https://github.com/maitamdev/happy-birthday-babe) | A cute interactive birthday webpage ❤️ with animations and sound. | HTML, CSS, JavaScript |
+
+---
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=maitamdev&show_icons=true&hide=issues&theme=dark" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitamdev&layout=compact&theme=dark" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=maitamdev&show_icons=true&hide=issues&theme=radical" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitamdev&layout=compact&theme=radical" height="160">
 </p>
+
+---
 
 ## 📫 Contact
 - 📧 Email: **maitamit062005@gmail.com**
-- 💼 LinkedIn/Facebook: links above  
-- 💬 Interested in open-source collaboration? **Ping me anytime!**
+- 🌐 Socials: LinkedIn, Facebook (links above)
+- 💬 Open to collaboration on open-source & startup projects!
 
 <div align="center">
 
-*Thanks for visiting! ⭐ If you like my work, consider giving a follow!*
+⭐ *Thanks for visiting! Feel free to follow if you enjoy my work!* ⭐
 
 </div>
