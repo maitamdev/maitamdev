@@ -54,10 +54,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=huynhkhuanit&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huynhkhuanit&layout=compact&langs_count=6&theme=gotham&hide_border=true" height="160" alt="Top Languages" />
-</div>
 
 <br/>
 
