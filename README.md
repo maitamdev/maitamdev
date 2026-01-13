@@ -54,11 +54,16 @@
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=maitamdev&show_icons=true&hide=issues&theme=radical" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitamdev&layout=compact&theme=radical" height="160">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=huynhkhuanit&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huynhkhuanit&layout=compact&langs_count=6&theme=gotham&hide_border=true" height="160" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huynhkhuanit&theme=react-dark&hide_border=true" width="100%" />
+</div>
 
 ---
 
