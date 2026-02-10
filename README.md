@@ -90,9 +90,16 @@
 </table>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maitamdev&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/maitamdev)
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100" />
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=maitamdev&color=20C20E&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ## 🟡 Contribution Graph
 
