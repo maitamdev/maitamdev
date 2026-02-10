@@ -79,7 +79,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=maitamdev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&card_width=400&rank_icon=percentile&border_radius=10&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9&hide_border=true" height="180" alt="Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maitamdev&theme=dracula&hide_border=true&border_radius=10&background=0d1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" height="180" alt="Streak" />
+      <img src="https://streak-stats.demolab.com/?user=maitamdev&theme=dracula&hide_border=true&border_radius=10&background=0d1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" height="180" alt="Streak" />
     </td>
   </tr>
   <tr>
@@ -89,10 +89,10 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maitamdev&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C,-?)](https://github.com/maitamdev)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maitamdev&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/maitamdev)
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100" />
 
 ## 🟡 Contribution Graph
 
@@ -100,15 +100,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maitamdev&theme=github-compact&hide_border=true&bg_color=0d1117&color=20C20E&line=20C20E&point=c9d1d9&area=true&area_color=20C20E" width="100%" alt="Contribution Graph" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
-
 ---
 
 <div align="center">
   <p><b>👀 Profile Views</b></p>
-  <img src="https://komarev.com/ghpvc/?username=maitamdev&color=20C20E&style=flat-square&label=VIEWS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=maitamdev&color=20C20E&style=for-the-badge&label=VIEWS" alt="Visitor Count" />
 </div>
-
 ---
 
 ## 📫 Contact
