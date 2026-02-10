@@ -70,26 +70,44 @@
 | [**happy-birthday-babe**](https://github.com/maitamdev/happy-birthday-babe) | A cute interactive birthday webpage ❤️ with animations and sound. | HTML, CSS, JavaScript |
 
 ---
-### 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=maitamdev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maitamdev&layout=compact&langs_count=6&theme=gotham&hide_border=true" height="160" alt="Top Languages" />
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=maitamdev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&card_width=400&rank_icon=percentile&border_radius=10&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9&hide_border=true" height="180" alt="Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maitamdev&theme=dracula&hide_border=true&border_radius=10&background=0d1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" height="180" alt="Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maitamdev&layout=compact&theme=dracula&langs_count=10&card_width=820&border_radius=10&bg_color=0d1117&title_color=20C20E&text_color=c9d1d9&hide_border=true" height="180" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=maitamdev&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C,-?)](https://github.com/maitamdev)
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
+
+## 🟡 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maitamdev&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maitamdev&theme=github-compact&hide_border=true&bg_color=0d1117&color=20C20E&line=20C20E&point=c9d1d9&area=true&area_color=20C20E" width="100%" alt="Contribution Graph" />
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
 
 ---
 
 <div align="center">
-  <p><b>Visitor Count</b></p>
-  <img src="https://komarev.com/ghpvc/?username=maitamdev&color=36BCF7&style=flat-square&label=VIEWS" alt="Visitor Count" />
+  <p><b>👀 Profile Views</b></p>
+  <img src="https://komarev.com/ghpvc/?username=maitamdev&color=20C20E&style=flat-square&label=VIEWS" alt="Visitor Count" />
 </div>
-
 
 ---
 
