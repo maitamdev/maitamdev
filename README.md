@@ -1,24 +1,43 @@
-### `$ whoami`
+<!-- Header Banner -->
+<a href="https://github.com/maitamdev" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Mai%20T%C3%A2m%20%7C%20Full-stack%20Developer&fontSize=42&fontAlignY=40&desc=Building%20AI-powered%20products%20with%20real-world%20impact&descSize=16&descAlignY=60" width="1200" alt="maitamdev-official" />
+</a>
 
-### Hi there, I'm Mai Tâm ✔️
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=009688" alt="FastAPI logo" title="FastAPI" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwindcss&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Full+Stack+Developer;I'm+an+AI+Product+Builder;I'm+an+Innovation+%26+Startup+Enthusiast&center=true&width=700&height=45">
-</p>
-
-- 🇻🇳 : I'm from Viet Nam
-- 👀 : Here is [my GitHub profile](https://github.com/maitamdev)
-- ✍️ : I build projects around AI, Web, and Startup ideas
-- 📧 : Contact me at [maitamit062005@gmail.com](mailto:maitamit062005@gmail.com)
-- ❤️ : I'm passionate about:
-  - 🤖 AI-powered products
-  - 🧠 Problem solving & system design
-  - 🖥️ Full-stack web development
-  - 🚀 Innovation and startup projects
-
----
 
 ### 🌐 Socials
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
