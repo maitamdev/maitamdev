@@ -1,96 +1,76 @@
-<!-- HEADER -->
 <div align="center">
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mai%20Tam&fontSize=42&fontAlignY=30&desc=Full-Stack%20Developer%20|%20AI%20Integration%20Builder%20|%20System%20Architect&descSize=18&descAlignY=51&animation=twinkling" />
 
-# Hi there, I'm **Mai Tâm** 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=20C20E&center=true&vCenter=true&width=700&lines=Full-stack+Developer;AI+Integration+Builder;Turning+Ideas+Into+Production+Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=700&height=60&lines=Build+real+products%2C+not+just+projects;Turning+ideas+into+production+systems;AI+%2B+Fullstack+%2B+Scalable+Architecture" />
 
 <br/>
 
-[![Followers](https://img.shields.io/github/followers/maitamdev?style=for-the-badge&color=20C20E)](https://github.com/maitamdev?tab=followers)
-[![Stars](https://img.shields.io/github/stars/maitamdev?affiliations=OWNER&style=for-the-badge&color=20C20E)](https://github.com/maitamdev?tab=repositories)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:maitamit062005@gmail.com)
+<a href="https://github.com/maitamdev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:maitamit062005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/maitamdev?tab=followers">
+  <img src="https://img.shields.io/github/followers/maitamdev?label=Followers&style=for-the-badge&color=20C20E&logo=github" />
+</a>
 
 </div>
 
----
-
-# 👾 Pac-Man Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/maitamdev/maitamdev/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/maitamdev/maitamdev/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph"
-      src="https://raw.githubusercontent.com/maitamdev/maitamdev/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
 
 ---
 
-# 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 💼 **Full-stack Developer**
-- 🔥 Build real-world scalable applications
-- 🚀 Passionate about AI, Startup Projects & Open Source
-- 🎯 Goal: Transform ideas into production-ready systems
+const maitam = {
+    role: "Full-Stack Developer",
+    focus: ["AI Integration", "System Design", "Scalable Web Applications"],
+    stack: ["React", "Next.js", "Node.js", "TypeScript", "PostgreSQL"],
+    interests: ["Startup Building", "Automation", "Cloud Native Systems"],
+    goal: "Transform ideas into production-ready systems"
+};
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
+🛠 Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,docker,git,python&theme=dark" /> </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
+🚀 Featured Projects
+<div align="center"> <table> <tr> <td width="33%" align="center">
+🌟 DHV Guiding Light
+Mentorship & AI guidance platform
+React TypeScript Node Firebase
 
----
+</td> <td width="33%" align="center">
+🤖 Build ChatGPT From Scratch
+Custom LLM application using LangChain + Ollama
+Python AI LLM
 
-# 🧰 Tech Stack
+</td> <td width="33%" align="center">
+🎨 Modern UI Website
+Professional UI/UX Course Landing Page
+HTML CSS JavaScript
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,docker,git,python" />
-</p>
+</td> </tr> <tr> <td width="33%" align="center">
+🎉 Interactive Birthday Web
+Animated dynamic website
+HTML CSS JavaScript
 
----
+</td> <td width="33%" align="center">
+🛠 API Backend System
+RESTful backend with authentication & database
+Node Express PostgreSQL
 
-# 🚀 Featured Projects
+</td> <td width="33%" align="center">
+🧠 AI Experiments
+Prompt engineering & AI workflow automation
+Python OpenAI Automation
 
-| Project | Description | Tech |
-|----------|------------|------|
-| **DHV-GUIDING-LIGHT** | Mentorship & AI guidance platform | React, TS, Firebase, Node |
-| **Build ChatGPT From Scratch** | Custom LLM app using LangChain + Ollama | Python |
-| **Modern UI Website** | UI/UX course landing page | HTML, CSS, JS |
-| **Interactive Birthday Web** | Animated dynamic website | HTML, CSS, JS |
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maitamdev&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=maitamdev&theme=dracula&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitamdev&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" />
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maitamdev&theme=github-compact&hide_border=true&bg_color=0d1117&color=20C20E&line=20C20E&point=ffffff&area=true&area_color=20C20E" />
-</div>
-
----
-
-# 📫 Contact
-
-- 📧 Email: **maitamit062005@gmail.com**
-- 💼 Open to collaboration & startup ideas
-
----
-
-<div align="center">
-
-⭐ If you like my work, consider following me ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20C20E,100:0d1117&height=120&section=footer"/>
-
-</div>
+</td> </tr> </table> </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
+📊 GitHub Statistics
+<div align="center"> <table> <tr> <td width="50%" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maitamdev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9" height="180" /> </td> <td width="50%" align="center"> <img src="https://streak-stats.demolab.com?user=maitamdev&theme=dracula&hide_border=true&background=0d1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" height="180" /> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitamdev&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=20C20E&text_color=c9d1d9" height="180" /> </td> </tr> </table> </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
+👾 Contribution Graph
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maitamdev/maitamdev/output/pacman-contribution-graph-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maitamdev/maitamdev/output/pacman-contribution-graph.svg" /> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maitamdev/maitamdev/output/pacman-contribution-graph.svg" width="100%" /> </picture> </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" /> <div align="center"> <sub>Built with precision ⚡ by Mai Tam • Updated 2026</sub> </div>
