@@ -1,30 +1,62 @@
-<div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/maitamdev">Mai Tâm</a> 👋</h1>
+### `$ whoami`
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=A+Full-stack+Developer+turning+ideas+into+reality.;Innovation+%26+Startup+Project+Builder;Building+Impactful+Digital+Experiences)](https://git.io/typing-svg)
+### Hi there, I'm Mai Tâm ✔️
 
-  <p>
-    <a href="https://github.com/maitamdev?tab=followers">
-      <img src="https://img.shields.io/github/followers/maitamdev?style=for-the-badge&logo=github&labelColor=181717&color=ffffff" alt="Followers" />
-    </a>
-    <a href="https://github.com/maitamdev?tab=repositories">
-      <img src="https://img.shields.io/github/stars/maitamdev?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=181717&color=ffffff" alt="Stars" />
-    </a>
-    <a href="mailto:maitamit062005@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
-    </a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-    </a>
-    <a href="https://www.facebook.com/YOUR_FACEBOOK_PROFILE">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
-    </a>
-  </p>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Full+Stack+Developer;I'm+an+AI+Product+Builder;I'm+an+Innovation+%26+Startup+Enthusiast&center=true&width=700&height=45">
+</p>
+
+- 🇻🇳 : I'm from Viet Nam
+- 👀 : Here is [my GitHub profile](https://github.com/maitamdev)
+- ✍️ : I build projects around AI, Web, and Startup ideas
+- 📧 : Contact me at [maitamit062005@gmail.com](mailto:maitamit062005@gmail.com)
+- ❤️ : I'm passionate about:
+  - 🤖 AI-powered products
+  - 🧠 Problem solving & system design
+  - 🖥️ Full-stack web development
+  - 🚀 Innovation and startup projects
+
+---
+
+### 🌐 Socials
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+`maitamdev`  
+![GitHub stars](https://img.shields.io/github/stars/maitamdev?style=social)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR_FACEBOOK_PROFILE)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://YOUR_WEBSITE)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maitamdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+
+---
+
+### 🛠 Languages and Tools
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" title="TypeScript" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" title="React" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&logoColor=FFFFFF" title="Next.js" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" title="Node.js" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" title="Express.js" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" title="Python" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=009688" title="FastAPI" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" title="PostgreSQL" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" title="MongoDB" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwindcss&logoColor=38B2AC" title="TailwindCSS" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" title="Docker" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" title="Git" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" title="Visual Studio Code" height="25"/> &nbsp;
 
 ---
 
 ### 👾 Pac-Man Contribution Graph
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <picture>
@@ -36,95 +68,55 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-- 💼 **Role:** Full-stack Developer
-- 🔥 **Focus:** Building projects with real-world impact — clean UI, stable architecture, scalable backend.
-- 🚀 **Passion:** Open-source, AI integration, and innovative learning platforms.
-- 🎯 **Mission:** Turn ideas into production-ready applications.
-
----
-
-## 🧰 Tech Stack
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <br/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://github-readme-stats-one-kappa-16.vercel.app/api?username=maitamdev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&border_radius=10&hide_border=true" height="175" alt="stats"/>
+  <img src="https://github-readme-stats-one-kappa-16.vercel.app/api/top-langs?username=maitamdev&layout=compact&theme=dracula&langs_count=8&hide_border=true&border_radius=10" height="175" alt="top-langs"/>
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| [**DHV-GUIDING-LIGHT**](https://github.com/maitamdev/DHV-GUIDING-LIGHT) | 🚀 **Innovation & Startup Project 2025.** A mentorship platform connecting DHV students with advisors through booking, dashboards, and AI-powered guidance. | React, TypeScript, Firebase, Node.js |
-| [**web-dev-maitam**](https://github.com/maitamdev/web-dev-maitam) | A sleek UI website designed for “Modern Website UI/UX Courses Online”. | HTML, CSS, JavaScript |
-| [**build-chatgpt-from-scratch**](https://github.com/maitamdev/build-chatgpt-from-scratch) | A custom ChatGPT-like LLM app using **Solara + LangChain + Ollama (LLaMA)**. | Python, Solara, LangChain, Ollama |
-| [**happy-birthday-babe**](https://github.com/maitamdev/happy-birthday-babe) | A cute interactive birthday webpage ❤️ with animations and sound. | HTML, CSS, JavaScript |
-
----
-
-## 📊 GitHub Statistics
+### 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=maitamdev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&card_width=400&rank_icon=percentile&border_radius=10&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9&hide_border=true" height="180" alt="Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com/?user=maitamdev&theme=dracula&hide_border=true&border_radius=10&background=0d1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" height="180" alt="Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maitamdev&layout=compact&theme=dracula&langs_count=10&card_width=820&border_radius=10&bg_color=0d1117&title_color=20C20E&text_color=c9d1d9&hide_border=true" height="180" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=maitamdev&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/maitamdev)
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100" />
-</div>
-
-## 🟡 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maitamdev&theme=github-compact&hide_border=true&bg_color=0d1117&color=20C20E&line=20C20E&point=c9d1d9&area=true&area_color=20C20E" width="100%" alt="Contribution Graph" />
+  <a href="https://github.com/maitamdev" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=maitamdev&theme=dracula&margin-w=6&margin-h=6&no-frame=true&no-bg=true" />
+  </a>
 </div>
 
 ---
 
+### 📈 User Statistics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
-  <p><b>👀 Profile Views</b></p>
-  <img src="https://komarev.com/ghpvc/?username=maitamdev&color=20C20E&style=for-the-badge&label=VIEWS" alt="Visitor Count" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=maitamdev&theme=dracula&hide_border=true&border_radius=10" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maitamdev&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maitamdev&theme=dracula&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maitamdev&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maitamdev&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maitamdev&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maitamdev&theme=dracula&utcOffset=7"/>
 </div>
 
 ---
 
-## 📫 Contact
-
-- 📧 Email: **maitamit062005@gmail.com**
-- 🌐 Socials: [LinkedIn](#) • [Facebook](#)
-- 💬 Open to collaboration on open-source & startup projects!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" />
 
 <div align="center">
   ⭐ <i>Thanks for visiting! Feel free to follow if you enjoy my work!</i> ⭐
