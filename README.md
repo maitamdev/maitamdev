@@ -64,7 +64,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=maitamdev&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=maitamdev&theme=dracula&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=maitamdev&theme=dracula&hide_border=true" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitamdev&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" />
 
