@@ -78,15 +78,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <a href="https://github.com/maitamdev" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=maitamdev&theme=dracula&margin-w=6&margin-h=6&no-frame=true&no-bg=true" />
-  </a>
-</div>
-
 ---
 
 ### 📈 User Statistics
