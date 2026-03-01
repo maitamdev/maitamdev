@@ -87,13 +87,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://github-readme-stats-one-kappa-16.vercel.app/api?username=maitamdev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&border_radius=10&hide_border=true" height="175" alt="stats"/>
-  <img src="https://github-readme-stats-one-kappa-16.vercel.app/api/top-langs?username=maitamdev&layout=compact&theme=dracula&langs_count=8&hide_border=true&border_radius=10" height="175" alt="top-langs"/>
-</div>
 
 ---
 
