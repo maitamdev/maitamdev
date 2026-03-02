@@ -66,9 +66,7 @@
 
 ## 📈 GitHub Stats (auto-update)
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=maitamdev&theme=dracula&hide_border=true&border_radius=10" />
-</p>
+
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maitamdev&theme=dracula" />
