@@ -87,8 +87,7 @@
 </p>
 
 ---
-![Commits](https://img.shields.io/github/commit-activity/y/maitamdev/maitamdev)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maitamdev&include_all_commits=true&show_icons=true)
 
 <p align="center">
   ⭐ <i>Thanks for visiting! Feel free to follow if you enjoy my work!</i> ⭐
