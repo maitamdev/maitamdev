@@ -87,7 +87,6 @@
 </p>
 
 ---
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maitamdev
   
 <p align="center">
   ⭐ <i>Thanks for visiting! Feel free to follow if you enjoy my work!</i> ⭐
