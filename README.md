@@ -88,17 +88,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<!-- Tổng thống kê commit và hoạt động -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maitamdev&show_icons=true&count_private=true)
-
-<!-- Ngôn ngữ sử dụng nhiều nhất -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maitamdev&layout=compact)
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maitamdev)
 
 <p align="center">
   ⭐ <i>Thanks for visiting! Feel free to follow if you enjoy my work!</i> ⭐
