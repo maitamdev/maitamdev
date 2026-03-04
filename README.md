@@ -101,7 +101,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats-nine-swart-24.vercel.app/api/top-langs?username=maitamdev&layout=compact&theme=dracula&langs_count=10&card_width=820&border_radius=10&bg_color=0d1117&title_color=20C20E&text_color=c9d1d9&hide_border=true" height="180" />
+      <img src="https://github-readme-stats-nine-swart-24.vercel.app/api/top-langs?username=maitamdev&layout=compact&theme=dracula&langs_count=12&hide_border=true&count_private=true&include_all_commits=true&card_width=820" height="180" />
     </td>
   </tr>
 </table>
