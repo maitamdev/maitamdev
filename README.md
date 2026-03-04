@@ -87,7 +87,7 @@
 </p>
 
 ---
-  
+![GitHub Stats](https://github-readme-stats-nine-swart-24.vercel.app/api?username=maitamdev&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=dark)
 <p align="center">
   ⭐ <i>Thanks for visiting! Feel free to follow if you enjoy my work!</i> ⭐
 </p>
