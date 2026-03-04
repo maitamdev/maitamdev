@@ -87,7 +87,7 @@
 </p>
 
 ---
-
+![Commits](https://img.shields.io/github/commit-activity/y/maitamdev/maitamdev)
 
 
 <p align="center">
