@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/maitamdev" target="_blank">
     <img
-      src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Mai%20T%C3%A2m%20%7C%20Full-stack%20Developer&fontSize=42&fontAlignY=40&desc=Building%20AI-powered%20products%20with%20real-world%20impact&descSize=16&descAlignY=60"
+      src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Mai%20T%C3%A2m%20%7C%20Full-Stack%20Developer&fontSize=42&fontAlignY=40&desc=Building%20AI-powered%20products%20with%20real-world%20impact&descSize=16&descAlignY=60"
       width="1200"
       alt="maitamdev-official"
     />
