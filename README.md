@@ -87,7 +87,27 @@
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats-nine-swart-24.vercel.app/api?username=maitamdev&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=dark)
+## 📊 GitHub Statistics
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-nine-swart-24.vercel.app/api?username=maitamdev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&card_width=400&rank_icon=percentile&border_radius=10&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=c9d1d9&hide_border=true" height="180" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=maitamdev&theme=dracula&hide_border=true&border_radius=10&background=0d1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" height="180" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats-nine-swart-24.vercel.app/api/top-langs?username=maitamdev&layout=compact&theme=dracula&langs_count=10&card_width=820&border_radius=10&bg_color=0d1117&title_color=20C20E&text_color=c9d1d9&hide_border=true" height="180" />
+    </td>
+  </tr>
+</table>
+---
+
+
 <p align="center">
   ⭐ <i>Thanks for visiting! Feel free to follow if you enjoy my work!</i> ⭐
 </p>
