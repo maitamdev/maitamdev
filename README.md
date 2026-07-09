@@ -144,9 +144,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maitamdev&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <!-- ========== HẾT PHẦN GITHUB STATS CŨ ========== -->
 
