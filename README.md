@@ -13,7 +13,7 @@
   </p>
 </div>
 
-<img align="right" width="285" src="./assets/dev-illustration.png" alt="Mai Tam" />
+<img align="right" width="300" src="./assets/developer-workstation.png" alt="AI and Web3 developer workstation" />
 
 ## 👨‍💻 About Me
 
