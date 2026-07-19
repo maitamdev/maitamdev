@@ -29,6 +29,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Balance radar chart for profile display
+        run: node .github/scripts/balance-profile-radar.mjs profile-3d-contrib/profile-night-rainbow.svg
+
       - name: Commit generated artwork
         shell: bash
         run: |
