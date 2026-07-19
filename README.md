@@ -98,18 +98,18 @@
 ## 🌱 My Code Garden
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maitamdev/maitamdev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maitamdev/maitamdev/output/github-snake.svg" />
-  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/maitamdev/maitamdev/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maitamdev/maitamdev/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maitamdev/maitamdev/refs/heads/output/github-snake.svg" />
+  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/maitamdev/maitamdev/refs/heads/output/github-snake.svg" />
 </picture>
 
 <details>
   <summary><b>🟡 Open the bonus Pac-Man contribution graph</b></summary>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maitamdev/maitamdev/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maitamdev/maitamdev/output/pacman-contribution-graph.svg" />
-    <img width="100%" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/maitamdev/maitamdev/output/pacman-contribution-graph.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maitamdev/maitamdev/refs/heads/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maitamdev/maitamdev/refs/heads/output/pacman-contribution-graph.svg" />
+    <img width="100%" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/maitamdev/maitamdev/refs/heads/output/pacman-contribution-graph.svg" />
   </picture>
 </details>
 
