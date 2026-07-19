@@ -79,6 +79,10 @@
 
 <div align="center">
   <h2>📈 GitHub Activity</h2>
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="MaiTamDev 3D contribution calendar" />
+
+  <br />
+
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=maitamdev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
   <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=maitamdev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
