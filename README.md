@@ -79,7 +79,7 @@
 
 <div align="center">
   <h2>📈 GitHub Activity</h2>
-  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="MaiTamDev 3D contribution calendar" />
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow-balanced.svg" alt="MaiTamDev balanced 3D contribution calendar" />
 
   <br />
 

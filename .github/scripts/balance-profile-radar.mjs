@@ -1,8 +1,11 @@
 import fs from "node:fs";
 
 const target = process.argv[2];
+const outputTarget = process.argv[3] || target;
 if (!target) {
-  throw new Error("Usage: node balance-profile-radar.mjs <profile-svg>");
+  throw new Error(
+    "Usage: node balance-profile-radar.mjs <profile-svg> [output-svg]"
+  );
 }
 
 const source = fs.readFileSync(target, "utf8");
@@ -47,5 +50,5 @@ const balancedTag = radarTag[0]
   );
 
 const output = source.replace(radarTag[0], balancedTag);
-fs.writeFileSync(target, output);
-console.log(`Balanced radar chart in ${target}`);
+fs.writeFileSync(outputTarget, output);
+console.log(`Balanced radar chart written to ${outputTarget}`);
