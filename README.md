@@ -97,9 +97,7 @@
 
 # 📈 GitHub Stats (Full Analytics)
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maitamdev&theme=dracula" />
-</p>
+
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maitamdev&theme=dracula&hide_border=true" />
